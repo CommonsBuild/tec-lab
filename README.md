@@ -15,3 +15,10 @@ git clone https://github.com/TECommons/python-lab.git
 Or use the windows git gui.
 
 
+## Step 2 Installing Visual Studio Code
+
+
+## Step 3 Installing python
+On Windows, go straight for the anaconda installer.
+
+
