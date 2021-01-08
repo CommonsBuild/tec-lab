@@ -26,8 +26,16 @@ Install the requirements with pip:
 ```
 pip3 install -r requrements.txt
 ```
+If you have issues installing cartopy try the solutions here: https://stackoverflow.com/questions/53697814/using-pip-install-to-install-cartopy-but-missing-proj-version-at-least-4-9-0 
+
+If you really can't get it then just delete cartopy from requirements.txt, it's just used for geo mapping.
 
 ## Step Number 3
+Make sure you have the pyviz jupyter lab extension:
+```
+jupyter labextension install @pyviz/jupyterlab_pyviz
+```
+
 Run jupyter
 ```
 jupyter lab
