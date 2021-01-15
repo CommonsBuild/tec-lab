@@ -27,6 +27,10 @@ Activate your poetry shell:
 ```
 poetry shell
 ```
+Make sure you have the pyviz jupyter lab extension:
+```
+jupyter labextension install @pyviz/jupyterlab_pyviz
+```
 
 Run jupyter
 ```
