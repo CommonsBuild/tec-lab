@@ -11,6 +11,11 @@ cadCAD = "^0.4.23"
 panel = "^0.10.2"
 holoviews = "^1.14.1"
 pandas = "^1.2.0"
+jupyterlab = "^3.0.4"
+ipython = "^7.19.0"
+hvplot = "^0.7.0"
+openpyxl = "^3.0.5"
+scipy = "^1.6.0"
 
 [tool.poetry.dev-dependencies]
 
