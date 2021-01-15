@@ -1,4 +1,4 @@
-# 
+
 🌈!
 
 # TEC Labs!
@@ -9,15 +9,15 @@ Read the proposal here:
 https://forum.tecommons.org/t/tec-labs-production-team-funding/201 
 
 
-# Getting started
+## Getting started
 
-## Clone the lab repository onto your system and enter it:
+### Clone the lab repository onto your system and enter it:
 ```
 git clone https://github.com/TECommons/tec-lab.git
 cd tec-lab
 ```
 
-## Create a virtual environment:
+### Create a virtual environment:
 Make sure that you have python poetry installed: https://python-poetry.org/docs/
 Install the requirements as per the poetry.lock file:
 ```
@@ -33,11 +33,11 @@ Run jupyter
 jupyter lab
 ```
 
-## See the Notion Workspace for more information or to learn how to contribute:
+### See the Notion Workspace for more information or to learn how to contribute:
 
 https://www.notion.so/saa108/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f 
 
-# Below this line is deprecated. We will remove it if we can come to community consensus on using python poetry.
+## Below this line is deprecated. We will remove it if we can come to community consensus on using python poetry.
 
 If you don't want to use poetry you may use the traditional python virtualevn:
 
