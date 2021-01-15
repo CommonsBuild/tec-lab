@@ -16,6 +16,7 @@ ipython = "^7.19.0"
 hvplot = "^0.7.0"
 openpyxl = "^3.0.5"
 scipy = "^1.6.0"
+datashader = "^0.12.0"
 
 [tool.poetry.dev-dependencies]
 
